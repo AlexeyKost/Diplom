@@ -29,7 +29,7 @@
 
 ---
 
-- Клонировать репозиторий командой `git clone https://github.com/dafokina/QAMID43-Diplom.git`;
+- Клонировать репозиторий;
 - Открыть проект в Android Studio;
 - Запустить приложение на эмуляторе Pixel XL API 29;
 - Запустить тесты из командной строки`./gradlew connectedAndroidTest`;
