@@ -101,6 +101,6 @@
 
 ## Тестовая документация:
 
- **Чек-лист:** [https://docs.google.com/spreadsheets/d/1hWNATXPAXLBiVuSt90p8qg1b4D0AgIy_qityizjZ2B8/edit?usp=sharing]
+ **Чек-лист:**[https://docs.google.com/spreadsheets/d/1hWNATXPAXLBiVuSt90p8qg1b4D0AgIy_qityizjZ2B8/edit?usp=sharing]
  
  **Тест-кейсы:** https://docs.google.com/spreadsheets/d/1vHjyPISd3-K1KHmxQdC4k0CNVebzVVw9/edit#gid=716714085
