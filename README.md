@@ -22,8 +22,7 @@
 - [План тестирования](https://github.com/dafokina/QAMID43-Diplom/blob/master/Plan.md)
 - [Чек-лист](https://docs.google.com/spreadsheets/d/15YJiOt0RNHwI1rGuOKl2lF_f2KUyFNNZ/edit#gid=1474013527)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1vHjyPISd3-K1KHmxQdC4k0CNVebzVVw9/edit#gid=716714085)
-- [Отчет о тестировании](https://github.com/dafokina/QAMID43-Diplom/blob/master/Result.md)
-
+  
 ---
 
 ## Процедура запуска приложения и автотестов
