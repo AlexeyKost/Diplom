@@ -20,7 +20,7 @@
 
 ## Документация
 
-- [План тестирования](https://github.com/AleksandrMuzhev/qamid-diplom/blob/main/documents/Plan.md)
+- [План тестирования](https://github.com/AlexeyKost/Diplom/blob/main/Plan.md)
 - [Чек-лист](https://github.com/AleksandrMuzhev/qamid-diplom/blob/main/documents/Check.xlsx)
 - [Тест-кейсы](https://github.com/AleksandrMuzhev/qamid-diplom/blob/main/documents/Cases.xlsx)
 - [Отчет о тестировании](https://github.com/AleksandrMuzhev/qamid-diplom/blob/main/documents/Result.md)
