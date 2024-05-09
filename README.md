@@ -23,7 +23,7 @@
 - [План тестирования](https://github.com/AlexeyKost/Diplom/blob/main/Plan.md)
 - [Чек-лист](https://github.com/AlexeyKost/Diplom/blob/main/Check.xlsx)
 - [Тест-кейсы](https://github.com/AlexeyKost/Diplom/blob/main/Cases.xlsx)
-- [Отчет о тестировании](https://github.com/AleksandrMuzhev/qamid-diplom/blob/main/documents/Result.md)
+- [Отчет о тестировании](https://github.com/AlexeyKost/Diplom/blob/main/Result.md)
 
 ---
 
